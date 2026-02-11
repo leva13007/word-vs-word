@@ -26,6 +26,9 @@
 | ID   | Фокус | Коротко | Файл |
 |------|-------|---------|------|
 | 0001 | cause vs lead to vs bring / bring about vs trigger | Ланцюжок причинно-наслідкових дієслів для ІТ | [читати](0001-cause.md) |
+| 0002 | structure vs organize vs arrange | Як описувати структуру даних, коду, документації | [читати](0002-organize.md) |
+| 0003 | ingest vs download vs retrieve vs fetch vs load vs download | Як описувати рух даних між системами | [читати](0003-ingest.md) |
+| 0004 | specify vs clarify vs define vs refine | Як говорити про вимоги, критерії, обмеження | [читати](0004-specify.md) |
 
 ## Беклог / ідеї
 
