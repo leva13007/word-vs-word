@@ -1,6 +1,19 @@
-# 0002. structure vs organize vs arrange
+# 0002. structure vs organize vs plan vs arrange
+
+> 🔧 IT · 📖 general
+
+<!-- TODO: розглянути додати organize / schedule / coordinate -->
 
 Три рівні наведення порядку: від фундаментальної форми до щоденних дрібниць. Щоб не плутати дієслова між собою, розгляньмо всю драбину рішень.
+
+## Одним поглядом
+
+| Слово | Значення (UA) | Ключовий нюанс |
+|-------|--------------|----------------|
+| **structure** | структурувати | задати форму і скелет |
+| **organize** | організувати | логіка всередині готової структури |
+| **plan** | спланувати | кроки, пріоритети, маршрут |
+| **arrange** | розкласти | конкретний порядок, тактично |
 
 ---
 
@@ -12,6 +25,8 @@ CHAOS
 STRUCTURE   ← форма, межі
   ↓
 ORGANIZE    ← правила, логіка
+  ↓
+PLAN        ← кроки, пріоритети
   ↓
 ARRANGE     ← послідовність, деталі
 ```
@@ -59,6 +74,25 @@ ARRANGE     ← послідовність, деталі
 
 ---
 
+### plan — спланувати кроки, пріоритети й послідовність роботи
+
+**Суть:** Визначити цілі, кроки, дедлайни та пріоритети перед виконанням.
+
+- рівень наміру й маршруту: що, коли й навіщо робимо
+- перетворює логіку `organize` на конкретний план дій
+
+**В ІТ:**
+
+- plan sprint goals and scope
+- plan implementation steps
+- plan release timeline
+
+**Приклад:** `We planned the sprint in milestones before arranging daily tasks.`
+
+**Як думаємо:** «Який найкращий маршрут до результату?»
+
+---
+
 ### arrange — розкласти деталі, визначити порядок, домовитися про конкретні кроки
 
 **Суть:** Встановити конкретний порядок дій, файлів, зустрічей просто зараз.
@@ -84,13 +118,14 @@ ARRANGE     ← послідовність, деталі
 |------|--------|---------|------------------|
 | structure | фундамент | Яка форма? | архітектура, схема |
 | organize | система | Як це працює? | процеси, каталоги |
+| plan | маршрут | Що і коли робимо? | план, етапи, пріоритети |
 | arrange | деталі | У якому порядку? | графіки, чеклісти, розклади |
 
 ---
 
 ### Один сценарій — три рівні
 
-`We structured the application into clean layers, then organized the modules by feature, and finally arranged the sprint tasks in execution order.`
+`We structured the application into clean layers, then organized the modules by feature, planned the sprint milestones, and finally arranged the sprint tasks in execution order.`
 
 ---
 
@@ -116,10 +151,24 @@ ARRANGE     ← послідовність, деталі
 
 - structure → 🦴 скелет
 - organize → 🧠 логіка
+- plan → 🗺️ маршрут
 - arrange → 📋 порядок
 
 ---
 
 ### Практичний коментар
 
-`The project structure is solid, but the current organization of modules is confusing. Please arrange the helper functions in the same order across files.`
+`The project structure is solid, but the current organization of modules is confusing. Let's plan the refactor milestones first, then arrange the helper functions in the same order across files.`
+
+---
+
+## Для картки
+
+> `(...)` — безпечний контекст. `(~...~)` — не перекладати дослівно. `(A|B)` — альтернативи.
+
+| Слово | Запис на картці |
+|-------|------|
+| **structure** | `структурувати (~задати форму~)` або `побудувати (skeleton)` |
+| **organize** | `організувати (~логіка всередині~)` |
+| **plan** | `спланувати (кроки і пріоритети)` |
+| **arrange** | `розкласти (порядок)` або `домовитися (про зустріч)` |
